@@ -48,7 +48,7 @@
     "style-loader": "0.23.0",
     "terser-webpack-plugin": "1.1.0",
     "url-loader": "1.1.1",
-    "web3": "0.20.4",
+    "web3": "0.20.4", //必须是这个版本
     "webpack": "4.19.1",
     "webpack-dev-server": "3.1.9",
     "webpack-manifest-plugin": "2.0.4",
